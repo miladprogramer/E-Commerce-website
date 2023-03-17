@@ -1,0 +1,17 @@
+.category-section{
+    width: 270px;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 70px;
+    margin-top: 30px;
+    box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
+}
+.cate-data{
+    display: flex;
+ align-items: center;
+    gap: 20px;
+    margin-left:20px;
+    margin-top: 20px;
+}

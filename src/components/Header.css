@@ -1,8 +1,7 @@
 .header{
     display: flex;
     flex-direction: column;
-    box-shadow: rgba(138, 138, 138, 0.09) 0px 2px 1px 0px, rgba(138, 138, 138, 0.09) 0px 4px 2px 0px, rgba(138, 138, 138, 0.09) 0px 8px 4px 0px, rgba(138, 138, 138, 0.09) 0px 16px 8px 0px, rgba(138, 138, 138, 0.09) 0px 32px 16px 0px;
-}
+    box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;}
 .head{
     display: flex;
     justify-content: space-between;
@@ -33,7 +32,7 @@ margin-top: 20px;
     margin-left: 30px;
 }
 .profile-icon , .basket{
-    background-color: rgb(225, 225, 225);
+    background-color: rgb(238, 238, 238);
     border-radius: 50%;
     padding: 8px;
 }
@@ -80,7 +79,6 @@ margin-top: 20px;
     border-radius: 30px;
    border: 1px solid rgb(162, 162, 162);
 }
-
 .navbar{
     margin-top: 20px;
     margin-bottom: 10px;
@@ -90,7 +88,6 @@ margin-top: 20px;
 }
 .menu{
     margin-right: 30px;
-   
    display: flex;
    gap: 30px;
    font-weight: 500;
@@ -98,7 +95,7 @@ margin-top: 20px;
 .categories{
     margin-left: 70px;
     font-weight: 500;
-    background-color: rgb(225, 225, 225);
+    background-color: rgb(238, 238, 238);
     border-radius: 20px;
     padding: 8px;
     text-align: center;
