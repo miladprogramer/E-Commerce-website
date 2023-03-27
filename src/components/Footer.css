@@ -1,0 +1,49 @@
+.footer-container{
+    margin-top: 50px;
+    display: flex;
+   justify-content: space-around;
+   
+    background-color: #0f3460;
+    padding: 15px;
+    color: #fff;
+}
+.footer-container p {
+    font-size: 14px;
+    font-weight: 300;
+    opacity: 0.5;
+    margin-bottom: 20px;
+  
+  }
+  .footer-container li {
+    margin-bottom: 10px;
+    opacity: 0.5;
+    list-style-type: none;
+  }
+
+  .footer-container h1 {
+    margin-bottom: 30px;
+    color: #e94560;
+    font-weight: 800;
+    font-style: italic;
+  }
+  .bonic{
+   width: 400px;
+  }
+  .aboutus{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+  }
+  .contactus{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+  }
+  .customer-care{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+  }
