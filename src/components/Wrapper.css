@@ -1,0 +1,39 @@
+.wrapper-container{
+margin-top: 50px;
+margin-left: 70px;
+margin-right: 40px;
+  
+    display: flex;
+    justify-content: space-between;
+
+}
+.wrapper{
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.wrapper > span{
+    font-size: 15px;
+   
+    color: grey;
+}
+.img-wrapper > img{
+    width: 30px;
+    height: 30px;
+    
+    
+  
+}
+.img-wrapper{
+   
+    background: #e6e8eb;
+    border-radius: 50%;
+    text-align: center;
+    padding: 7px;
+}
